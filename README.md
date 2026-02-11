@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **broomrun/broomrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Chairun Nisaq**.<br>
+
+Saya merupakan mahasiswi semester 6 Program Studi Ilmu Komputer di Universitas Sumatera Utara. </br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/chairun-nisaq/) ku ya.
