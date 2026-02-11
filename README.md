@@ -11,6 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+referensi: 
+- https://github.com/saturn-abhishek/awesome-github-profile-readme
+- https://github.com/coderjojo/creative-profile-readme
+- https://github.com/anuraghazra/github-readme-stats
+- https://github.com/dimasmds
+- https://github.com/saturn-abhishek/awesome-github-profile-readme
+- https://github.com/coderjojo/creative-profile-readme
 -->
 
 # Halo semua! 
